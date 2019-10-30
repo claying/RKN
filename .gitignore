@@ -1,3 +1,13 @@
+s
+tmp
+test
+results
+scripts
+logs*
+data
+!rkn/data
+out
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
